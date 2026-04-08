@@ -97,4 +97,4 @@ data-warehouse-project/
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
-Hi there! Omomoh Daniel, also known as dhn_illuminate on X. I’m an IT professional and passionate data journey from ingestion and cleaning to visualization!
+Hi there! Omomoh Daniel, also known as dhn_illuminate on X. I’m an IT professional and passionate about data journey from ingestion and cleaning to visualization!
